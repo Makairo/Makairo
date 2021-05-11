@@ -1,6 +1,6 @@
 ![Kenobi](kenobi.gif)
 
------My name is Andrew.
+ ## My name is Andrew.
 
 <br>
 I love to make programs and solve logic based problems. <br>
