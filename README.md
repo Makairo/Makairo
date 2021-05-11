@@ -4,7 +4,7 @@
 I love to make programs and solve logic based problems. <br>
 I've also dabbled in making games. <br>
 <br>
-<br>
+<br> 
 ## Some links to my projects: <br>
 <br>
 
