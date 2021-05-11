@@ -1,10 +1,11 @@
 ### My name is Andrew.
 
 <br>
-I love to make programs and solve logic based problems.<br>
-I've also dabbled in making games.
+I love to make programs and solve logic based problems. <br>
+I've also dabbled in making games. <br>
 <br>
-Some links to my projects: 
+<br>
+## Some links to my projects: <br>
 <br>
 
 [RibbonWeb](https://ribbonweb.net/Index.html) - A JavaScript Logic test to be made into an encryption engine. <br>
