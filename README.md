@@ -10,7 +10,8 @@ I’m currently strengthening my backend profile by building projects inspired b
 
 ### 🔹 [Adornap-REDIS](https://github.com/Makairo/Adornap-REDIS)
 A Redis-style key-value server implemented in C++, created with own hashtable.
-Instruction and inspiration taken from [build-your-own.org](https://build-your-own.org/redis/#table-of-contents)
+Instruction and inspiration taken from 
+[build-your-own.org](https://build-your-own.org/redis/#table-of-contents)
 
 ### 🔹 [DataStructures (C#)](https://github.com/Makairo/DataStructures)
 Collection of data structure implementations demonstrating fundamentals.
