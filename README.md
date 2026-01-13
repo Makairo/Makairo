@@ -8,6 +8,25 @@ I’m currently strengthening my backend profile by building projects inspired b
 --- 
 ## Highlighted Projects
 
+### 🔹 [J. Miller Custom Cues Website, Backend Developer](https://www.jmillercustomcues.com/)
+#### Key Contributions
+
+- Designed and implemented **user authentication workflows**, including:
+  - User registration and login
+  - Secure password hashing and encryption
+  - Two-factor authentication (2FA) for enhanced account security
+
+- Built and configured an **automated email system** using **Nodemailer** for account-related notifications and workflows
+
+- Implemented **MongoDB routing and CRUD logic** across all data collections
+
+- Developed a **custom database initialization and migration script** capable of:
+  - Uploading data from Excel and CSV files
+  - Reinitializing database state efficiently for updates and maintenance
+
+- Worked within a **full MERN stack architecture**, integrating backend services with frontend requirements
+
+
 ### 🔹 [Adornap-REDIS](https://github.com/Makairo/Adornap-REDIS)
 A Redis-style key-value server implemented in C++, created with a from-scratch hashtable.
 Instruction and inspiration taken from 
