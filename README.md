@@ -9,7 +9,7 @@ I’m currently strengthening my backend profile by building projects inspired b
 ## Highlighted Projects
 
 ### 🔹 [Adornap-REDIS](https://github.com/Makairo/Adornap-REDIS)
-A Redis-style key-value server implemented in C++, created with own hashtable.
+A Redis-style key-value server implemented in C++, created with a from-scratch hashtable.
 Instruction and inspiration taken from 
 [build-your-own.org](https://build-your-own.org/redis/#table-of-contents)
 
