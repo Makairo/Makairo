@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Andrew (Makairo)
+# Hi, I’m Andrew (Makairo)
 
 I’m a **Computer Science graduate** from Arizona State University focused on **backend systems, data structures, and performance-oriented software engineering**.  
 I enjoy building things close to the metal: **network servers, custom data structures, and low-level systems code**.
@@ -20,7 +20,7 @@ Small project which simulates a game of the roulette wheel at any casino.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ### Languages
 - C
@@ -38,7 +38,7 @@ Small project which simulates a game of the roulette wheel at any casino.
 
 ---
 
-## 📈 What I’m Currently Working On
+## What I’m Currently Working On
 
 - Improving upon my REDIS server for more functionality.
 - Creating the foundation for a custom SQL clone.
@@ -47,7 +47,7 @@ Small project which simulates a game of the roulette wheel at any casino.
 
 ---
 
-## 🎯 What I’m Looking For
+## What I’m Looking For
 
 I’m actively interested in:
 - **Backend Software Engineer**
@@ -61,7 +61,7 @@ I’m especially drawn to roles that value:
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: hejlandrew@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/andrewhejl/)
