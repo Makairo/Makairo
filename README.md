@@ -20,15 +20,6 @@ Small project which simulates a game of the roulette wheel at any casino.
 
 ---
 
-## 🧠 Technical Interests
-
-- Backend & Systems Programming  
-- Data Structures & Algorithms
-- Performance & Memory Efficiency
-- Scalable Software Design
-
----
-
 ## 🛠️ Languages & Tools
 
 ### Languages
@@ -38,13 +29,6 @@ Small project which simulates a game of the roulette wheel at any casino.
 - Java
 - SQL
 - Python
-
-### Concepts & Skills
-- Custom hash tables (separate chaining, incremental rehashing)
-- Function pointers & low-level APIs
-- Manual memory management
-- Protocol parsing & binary formats
-- Object-oriented & systems-level design
 
 ### Tools
 - Linux / POSIX APIs
@@ -83,13 +67,4 @@ I’m especially drawn to roles that value:
 - [LinkedIn](https://www.linkedin.com/in/andrewhejl/)
 - [GitHub](https://github.com/Makairo) : Hey! You're already here!
 
----
 
-## ⭐ Notes for Reviewers
-
-Most of my projects are written to:
-- Show **how systems actually work**
-- Avoid heavy frameworks
-- Emphasize correctness, clarity, and performance
-
-If you’re reviewing my code, I’m always open to feedback — especially around systems design and best practices.
