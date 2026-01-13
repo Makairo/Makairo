@@ -12,14 +12,11 @@ I’m currently strengthening my backend profile by building projects inspired b
 A Redis-style key-value server implemented in C++, created with own hashtable.
 Instruction and inspiration taken from [build-your-own.org](https://build-your-own.org/redis/#table-of-contents)
 
-### 🔹 [Linked List](https://github.com/Makairo/LinkedList)
-Small project which implements a singly linked list.
+### 🔹 [DataStructures (C#)](https://github.com/Makairo/DataStructures)
+Collection of data structure implementations demonstrating fundamentals.
 
 ### 🔹 [Roulette](https://github.com/Makairo/Roulette)
 Small project which simulates a game of the roulette wheel at any casino.
-
-### 🔹 [DataStructures (C#)](https://github.com/Makairo/DataStructures)
-Collection of data structure implementations demonstrating fundamentals.
 
 ---
 
