@@ -27,16 +27,47 @@ I’m currently strengthening my backend profile by building projects inspired b
 - Worked within a **full MERN stack architecture**, integrating backend services with frontend requirements
 
 
-### 🔹 [Adornap-REDIS](https://github.com/Makairo/Adornap-REDIS)
-A Redis-style key-value server implemented in C++, created with a from-scratch hashtable.
-Instruction and inspiration taken from 
-[build-your-own.org](https://build-your-own.org/redis/#table-of-contents)
+### 🔹 [Sudoku](https://github.com/Makairo/Sudoku))
+This project implements a playable Sudoku game that runs in the browser.
+Players can generate a custom difficulty sudoku board with one unique solution. The browser will congratulate the player on a successful completion!
+#### Key Features 
 
-### 🔹 [DataStructures (C#)](https://github.com/Makairo/DataStructures)
-Collection of data structure implementations demonstrating fundamentals.
+Developed a fully playable, browser-based Sudoku game using JavaScript, HTML, and CSS
 
-### 🔹 [Roulette](https://github.com/Makairo/Roulette)
-Small project which simulates a game of the roulette wheel at any casino.
+Implemented procedural Sudoku board generation with:
+- Configurable difficulty levels
+- Guaranteed single-solution validation per generated board
+- Built real-time input validation logic to prevent illegal moves and maintain board integrity
+- Added completion detection and user feedback, congratulating players upon successfully solving a puzzle
+
+
+### 🔹 [Path Of Solace](https://github.com/Makairo/PathOfSolace)
+PathOfSolace is a work-in-progress RogueLite game built in C# using .NET and MonoGame.
+Uses C# as the core language, with .NET and MonoGame.
+#### Key Features
+Designed a modular entity-based architecture, enabling:
+- Flexible enemy and player behavior
+- Scalable content expansion for items, abilities, and systems
+- Implemented grid-based world logic and simulation systems inspired by classic RogueLite design patterns
+- Focused on performance-conscious game loops and deterministic mechanics suitable for procedural gameplay
+
+Actively iterating on gameplay systems, balance, and extensibility as part of an ongoing development effort
+
+### 🔹 [Plannro](https://github.com/Makairo/Plannro)
+Plannro is a planning and organization tool using Springboot, with Java / HTML / CSS.
+Users can create accounts, events, and view events on a visual calendar.
+#### Key Features
+Designed and implemented user account management, including:
+- User-scoped data access for events
+- Developed RESTful backend APIs to support event creation and retrieval
+- Integrated Hibernate/JPA for ORM-based persistence and relational data modeling
+- Implemented role-aware data handling, laying groundwork for per-user event ownership and access control
+
+Debugged and resolved real-world backend challenges, including:
+- Spring Security access rules and constraints
+- Hibernate entity constraints
+- PostgreSQL user permission and sequence management
+
 
 ---
 
