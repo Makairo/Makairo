@@ -26,7 +26,7 @@ I’m currently strengthening my backend profile by building projects inspired b
 
 - Worked within a **full MERN stack architecture**, integrating backend services with frontend requirements
 
-### 🔹 [Sudoku](https://github.com/Makairo/Sudoku)
+### 🔹 [Sudoku](https://makairo.github.io/Sudoku/)[Repository](https://github.com/Makairo/Sudoku)
 This project implements a playable Sudoku game that runs in the browser.
 Players can generate a custom difficulty sudoku board with one unique solution. The browser will congratulate the player on a successful completion!
 #### Key Features 
