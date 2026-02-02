@@ -26,8 +26,7 @@ I’m currently strengthening my backend profile by building projects inspired b
 
 - Worked within a **full MERN stack architecture**, integrating backend services with frontend requirements
 
-
-### 🔹 [Sudoku](https://github.com/Makairo/Sudoku))
+### 🔹 [Sudoku](https://github.com/Makairo/Sudoku)
 This project implements a playable Sudoku game that runs in the browser.
 Players can generate a custom difficulty sudoku board with one unique solution. The browser will congratulate the player on a successful completion!
 #### Key Features 
@@ -39,7 +38,6 @@ Implemented procedural Sudoku board generation with:
 - Guaranteed single-solution validation per generated board
 - Built real-time input validation logic to prevent illegal moves and maintain board integrity
 - Added completion detection and user feedback, congratulating players upon successfully solving a puzzle
-
 
 ### 🔹 [Path Of Solace](https://github.com/Makairo/PathOfSolace)
 PathOfSolace is a work-in-progress RogueLite game built in C# using .NET and MonoGame.
@@ -68,7 +66,6 @@ Debugged and resolved real-world backend challenges, including:
 - Hibernate entity constraints
 - PostgreSQL user permission and sequence management
 
-
 ---
 
 ## Languages & Tools
@@ -86,29 +83,6 @@ Debugged and resolved real-world backend challenges, including:
 - GCC / Clang
 - Git & GitHub
 - VS Code
-
----
-
-## What I’m Currently Working On
-
-- Improving upon my REDIS server for more functionality.
-- Creating the foundation for a custom SQL clone.
-- Writing cleaner, production-style documentation.
-- Deepening knowledge of backend interview fundamentals.
-
----
-
-## What I’m Looking For
-
-I’m actively interested in:
-- **Backend Software Engineer**
-- **Systems / Infrastructure Engineer**
-- **Data or Platform Engineering roles**
-
-I’m especially drawn to roles that value:
-- Strong fundamentals
-- Code quality and correctness
-- Understanding *why* systems work, not just how to use frameworks
 
 ---
 
